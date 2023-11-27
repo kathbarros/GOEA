@@ -15,6 +15,7 @@ Provide two CSV files:
 
 • background_file.csv: Contains the background gene set, with each row representing a gene
 • target_genes_file.csv: Contains the target gene set, with each row representing a gene
+
 Output
 
 A CSV file named enrichment_results.csv is generated, containing the following columns:
